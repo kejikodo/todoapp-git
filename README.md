@@ -12,6 +12,6 @@ HTML、CSS、PHP
 ## サーバー、DBなど
 Windows、MYSQL、Docker
 
-## FW
+## フレームワーク
 Laravel
 
