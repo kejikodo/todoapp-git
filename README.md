@@ -10,7 +10,7 @@
 HTML、CSS、PHP
 
 ## サーバー、DBなど
-Windows、MYSQL、Docker
+Linux、MYSQL、Docker
 
 ## フレームワーク
 Laravel
